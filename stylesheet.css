@@ -1,0 +1,29 @@
+body{
+    background-image: url('fjell.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 250px;
+    color: yellow;
+    font-family: sans-serif;
+    margin: 0%;
+    text-align: center;
+    margin-top: -2%;
+    letter-spacing: -20px;
+}
+#txttop{
+    color: white;
+    margin: 0;
+}
+#Side{
+    width: 350px;
+    height: 250px;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 50px;
+    color: yellow;
+    font-size: 50px;
+    overflow-wrap: break-word;
+    padding-left: 5%;
+}
