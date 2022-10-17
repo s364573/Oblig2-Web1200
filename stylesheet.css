@@ -6,24 +6,49 @@ body{
 h1{
     font-size: 250px;
     color: yellow;
-    font-family: sans-serif;
+    font-family: sans-serif, "Montserrat";
     margin: 0%;
     text-align: center;
     margin-top: -2%;
-    letter-spacing: -20px;
+    letter-spacing: -25px;
 }
 #txttop{
     color: white;
     margin: 0;
 }
 #Side{
-    width: 350px;
+    width: 310px;
     height: 250px;
     border-radius: 30px;
     text-align: center;
     line-height: 50px;
     color: yellow;
-    font-size: 50px;
+    font-size: 40px;
     overflow-wrap: break-word;
-    padding-left: 5%;
+    padding-left: 7%;
+    font-family: sans-serif, "Montserrat";
+}
+footer{
+    position: relative;
+}
+.column{
+    float: left;
+    width: 25%;
+    color: white;
+    margin-top: 10%;
+    line-height: 10px;
+    text-align: center;
+    font-family: sans-serif, "Montserrat";
+    letter-spacing: -1px;
+}
+h2{
+    font-size: 22px;
+    font-family: sans-serif, "Montserrat";
+}
+
+#ns {
+    position: relative;
+    left: 90%;
+    color: aqua;
+    font-size: 20px;
 }
