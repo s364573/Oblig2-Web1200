@@ -12,6 +12,44 @@
     margin: 0;
     background-color: #fefbea;
 }
+.navbar {
+    overflow: hidden;
+    background-color: #252626;
+    position: sticky;
+    width: 100%;
+    top: 0;
+  }
+ 
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding-left: 10px;
+    text-decoration: none;
+  }
+ 
+  .navbartxt{
+   float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 13px;
+  }
+ 
+  .navbartxt a{
+   padding-left: 20px;
+  }
+ 
+  .navbar a.right {
+    float: none;
+  }
+ 
+  .navbar a:hover {
+    background-color: #252626;
+    color: black;
+  }
 #tittel{
     font-size: 250px;
     color: yellow;
