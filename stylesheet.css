@@ -155,6 +155,12 @@ h2{
     font-family: sans-serif, "Montserrat";
 }
 
+h3{
+    font-size: 22px;
+    font-family: sans-serif, "Montserrat";
+    color: black;
+}
+
 #ns {
     position: absolute;
     left: 1%;
