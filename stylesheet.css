@@ -190,7 +190,7 @@ h3{
 
 /*tooltip hentet og endret fra w3school*/
 .tooltip {
-    position: fixed;
+    position: relative;
     display: inline-block;
     /*float: left;*/
     width: 25%;
