@@ -184,6 +184,7 @@ h3{
     font-size: 15px;
 }
 
+/*tooltip hentet og endret fra w3school*/
 .tooltip {
     position: relative;
     display: inline-block;
