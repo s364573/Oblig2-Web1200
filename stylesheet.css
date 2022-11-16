@@ -66,6 +66,7 @@
     margin: 0%;
     height: 50px;
     border-style: solid hidden hidden hidden;
+    text-align: right;
   }
 #tittel{
     font-size: 250px;
@@ -226,7 +227,7 @@ h3{
     padding: 20px;
     font-size:30px;
 }
-.puppyimg {
+.kittyimg {
     -ms-flex: 60%;
     flex: 60%;
     padding: 0px 15px 10px 0px ;
@@ -261,11 +262,7 @@ h3{
 .profilbilde{
     width: 50%;
 }
-.footer{
-    width: 100%;
-    height: 10%;
-    background-color: #252626;
-}
+
 .Link{
     color: white;
     text-decoration: none;
@@ -275,4 +272,9 @@ h3{
     color: black;
     text-decoration: none;
     background-color: none;
+}
+#sirkelB{
+    border-radius: 50%;
+    margin-top: 50px;
+    line-height: 0px;
 }
