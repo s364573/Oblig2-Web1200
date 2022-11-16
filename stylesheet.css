@@ -222,17 +222,14 @@ h3{
 
 .box{
     width: 35%;
-    
-    
-    background-color: #fefbea;
+    background-color: #f5f0de;
     padding: 20px;
     font-size:30px;
 }
 .puppyimg {
     -ms-flex: 60%;
     flex: 60%;
-    background-color: #fefbea;
-    padding: 20px 20px 100px 20px;
+    padding: 0px 15px 10px 0px ;
     text-align: right;
     font-size: 20px;
     line-height: 30px;
