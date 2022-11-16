@@ -219,6 +219,48 @@ h3{
 .tooltip:hover .tooltiptext{
     visibility: visible;
 }
+
+.box{
+    -ms-flex: 30%;
+    flex: 30%;
+    background-color: #fefbea;
+    padding: 20px;
+    font-size:30px;
+}
+.puppyimg {
+    -ms-flex: 60%;
+    flex: 60%;
+    background-color: #fefbea;
+    padding: 20px 20px 100px 20px;
+    text-align: left;
+    font-size: 20px;
+    line-height: 30px;
+}
+    
+
+.side3main{
+    -ms-flex: 40%;
+    flex: 40%;
+    background-color: #fefbea;
+    padding: 20px 20px 0px 20px;
+    text-align: left;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+.offset{
+
+    margin-left: 60px;
+}
+
+.bottom{
+
+    width: 120px;
+    position: relative;
+        bottom: -70%;
+        left: 60px;
+}
 .profilbilde{
     width: 50%;
 }
