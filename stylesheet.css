@@ -255,8 +255,8 @@ h3{
 .bottom{
 
     width: 120px;
-    position: absolute;
-        bottom: -50px;
+    position: relative;
+        bottom: -65%;
         left: 60px;
 }
 .profilbilde{
